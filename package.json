@@ -1,0 +1,23 @@
+{
+  "name": "wallet-server-goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiGoIT/wallet-server-goit.git"
+  },
+  "author": "Voida Evgenii <wojda007@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniiGoIT/wallet-server-goit/issues"
+  },
+  "homepage": "https://github.com/EvgeniiGoIT/wallet-server-goit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
