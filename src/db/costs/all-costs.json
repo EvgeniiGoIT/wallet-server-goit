@@ -1,0 +1,71 @@
+[{
+	"id": 19112831,
+	"name": "Пицца Пепперони с томатами",
+	"description": "",
+	"price": "100",
+	"currency": "UAN",
+	"created": "21-07-2019",
+	"modified": "23-07-2019",
+	"categories": ["food"]
+},
+{
+	"id": 19112832,
+	"name": "Суши",
+	"description": "",
+	"price": "80",
+	"currency": "UAN",
+	"creatorId": 1,
+	"created": "20-07-2019",
+	"modified": "20-07-2019",
+	"categories": ["food"]
+},
+{
+	"id": 19112833,
+	"name": "Курсы программирования",
+	"description": "",
+	"price": "20000",
+	"currency": "UAN",
+	"created": "20-07-2019",
+	"modified": "20-07-2019",
+	"categories": ["study"]
+},
+{
+	"id": 19112834,
+	"name": "Санаторий",
+	"description": "",
+	"price": "1300",
+	"currency": "USD",
+	"created": "20-07-2019",
+	"modified": "20-07-2019",
+	"categories": ["healths"]
+},
+{
+	"id": 19112835,
+	"name": "Одежда",
+	"description": "",
+	"price": "300",
+	"currency": "USD",
+	"created": "20-07-2019",
+	"modified": "20-07-2019",
+	"categories": ["clothes"]
+},
+{
+	"id": 19112836,
+	"name": "Витамины",
+	"description": "",
+	"price": "470",
+	"currency": "UAN",
+	"created": "20-07-2019",
+	"modified": "20-07-2019",
+	"categories": ["healths"]
+},
+{
+	"id": 19112837,
+	"name": "Книги",
+	"description": "",
+	"price": "150",
+	"currency": "UAN",
+	"created": "20-07-2019",
+	"modified": "20-07-2019",
+	"categories": ["books"]
+}]
