@@ -1,8 +1,8 @@
 const express = require("express");
-const costs = require("./costs");
+const products = require("./products");
 
 const app = express();
 
-app.use("/costs", costs);
+app.use("/costs", products);
 
 module.exports = app;
