@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const products = [...require("../../db/costs/all-costs.json")];
+const products = require("../../db/costs/all-costs.json");
 app.get("/:id", (request, response) => {
   const id = +request.params.id;
   const findedProducts = products.find(obj => obj.id === id);
